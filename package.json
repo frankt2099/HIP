@@ -1,0 +1,19 @@
+{
+  "name": "hip",
+  "version": "1.0.0",
+  "description": "HOPE Ecosystem Improvement Proposal",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Light-Ecosystem/HIP.git"
+  },
+  "author": "HOPE Ecosystem",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Light-Ecosystem/HIP/issues"
+  },
+  "homepage": "https://github.com/Light-Ecosystem/HIP#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
